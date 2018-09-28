@@ -37,7 +37,7 @@ sudo /etc/init.d/domoticz.sh restart
 ```
 sudo cp ~/domoticz/www/styles/machinon/templates/Settings.html ~/domoticz/www/templates/
 ```  
-You may need to disable Custom menu if a visible wider space between Utility and Setup [SETUP -> Settings -> Active Menu]
+You may need to disable Custom menu if a visible wider space between Utility and Settings [Settings -> Theme -> Active Menu]
 
 
 ## Updating
